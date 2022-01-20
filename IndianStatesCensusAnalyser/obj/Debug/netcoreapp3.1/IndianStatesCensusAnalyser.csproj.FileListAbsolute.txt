@@ -1,0 +1,14 @@
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\IndianStatesCensusAnalyser\IndianStatesCensusAnalyser\bin\Debug\netcoreapp3.1\IndianStatesCensusAnalyser.exe
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\IndianStatesCensusAnalyser\IndianStatesCensusAnalyser\bin\Debug\netcoreapp3.1\IndianStatesCensusAnalyser.deps.json
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\IndianStatesCensusAnalyser\IndianStatesCensusAnalyser\bin\Debug\netcoreapp3.1\IndianStatesCensusAnalyser.runtimeconfig.json
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\IndianStatesCensusAnalyser\IndianStatesCensusAnalyser\bin\Debug\netcoreapp3.1\IndianStatesCensusAnalyser.runtimeconfig.dev.json
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\IndianStatesCensusAnalyser\IndianStatesCensusAnalyser\bin\Debug\netcoreapp3.1\IndianStatesCensusAnalyser.dll
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\IndianStatesCensusAnalyser\IndianStatesCensusAnalyser\bin\Debug\netcoreapp3.1\IndianStatesCensusAnalyser.pdb
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\IndianStatesCensusAnalyser\IndianStatesCensusAnalyser\obj\Debug\netcoreapp3.1\IndianStatesCensusAnalyser.csproj.AssemblyReference.cache
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\IndianStatesCensusAnalyser\IndianStatesCensusAnalyser\obj\Debug\netcoreapp3.1\IndianStatesCensusAnalyser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\IndianStatesCensusAnalyser\IndianStatesCensusAnalyser\obj\Debug\netcoreapp3.1\IndianStatesCensusAnalyser.AssemblyInfoInputs.cache
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\IndianStatesCensusAnalyser\IndianStatesCensusAnalyser\obj\Debug\netcoreapp3.1\IndianStatesCensusAnalyser.AssemblyInfo.cs
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\IndianStatesCensusAnalyser\IndianStatesCensusAnalyser\obj\Debug\netcoreapp3.1\IndianStatesCensusAnalyser.csproj.CoreCompileInputs.cache
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\IndianStatesCensusAnalyser\IndianStatesCensusAnalyser\obj\Debug\netcoreapp3.1\IndianStatesCensusAnalyser.dll
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\IndianStatesCensusAnalyser\IndianStatesCensusAnalyser\obj\Debug\netcoreapp3.1\IndianStatesCensusAnalyser.pdb
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\IndianStatesCensusAnalyser\IndianStatesCensusAnalyser\obj\Debug\netcoreapp3.1\IndianStatesCensusAnalyser.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b6hDVqGj1Nx8YGIFwHAPBmqNzXAGbWnEXZnfDG1nMuKEz13fMw6vySHTbM70e4IJYPwnAmmesg6SW7l5uujPcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MOHSIN ZAHOOR PEER\\Desktop\\IndianStatesCensusAnalyser\\IndianStatesCensusAnalyser\\IndianStatesCensusAnalyser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MOHSIN ZAHOOR PEER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
